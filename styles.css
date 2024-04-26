@@ -69,7 +69,7 @@ header{
 #serveis p{
     color: #994d60;
 }
-/* Margin 0 auto goes with width together*/
+/* Margin 0 auto; goes with width together*/
 #serveis div{
     width: 800px;
     margin: 0 auto;
@@ -83,6 +83,7 @@ footer{
 }
 footer p{
     color: #cfacbc;
+    margin: 2px;
 }
 
 #credits{
