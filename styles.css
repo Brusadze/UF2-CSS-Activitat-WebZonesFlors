@@ -17,11 +17,13 @@ h3{
 }
 header{
     background-image: url(flors.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding-top: 30px;
     padding-bottom: 40px;
 }
 #tela{
-    background-color: rgba(219, 202, 194, 0.9);
+    background-color: rgba(216, 198, 178, 0.8);
     margin-left: 50px;
     margin-right: 50px;
     padding-bottom: 25px;
@@ -78,8 +80,8 @@ header{
 footer{
     background-color: #bf638c;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 footer p{
     color: #cfacbc;
@@ -88,5 +90,7 @@ footer p{
 
 #credits{
     color: black;
+    font-family: Times;
+    font-size: 16px;
 }
 
