@@ -1,0 +1,90 @@
+*{
+    font-family: Verdana;
+}
+body{
+    margin: 0;
+}
+h1{
+    padding-top: 50px;
+    
+    color: #824263;
+    text-align: center;
+}
+
+h3{
+    color: #bb658c;
+    text-align: center;
+}
+header{
+    background-image: url(flors.jpg);
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+#tela{
+    background-color: rgba(219, 202, 194, 0.9);
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 25px;
+}
+#tela div{
+    padding: 30px;
+    text-align: center;
+}
+#tela div a{
+    text-decoration: none;
+    font-family: Verdana;
+    font-weight: bolder;
+    background-color: #d9abb6;
+    width: 120px;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #824263;
+    color: #824263;
+}
+#tela div a:hover{
+    text-decoration: none;
+    background-color: #824263;
+    width: 120px;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #d9abb6;
+    color: #d9abb6;
+}
+
+#serveis{
+    background-color: #d9abb6;
+    text-align: center;
+    padding: 50px;
+    margin-top: 0px;
+    text-align: justify;
+    margin-bottom: 3px;
+}
+#serveis h2{
+    color: #692a4a;
+}
+#serveis p{
+    color: #994d60;
+}
+#serveis div{
+    margin-left: 250px;
+	margin-right: 250px;
+}
+
+footer{
+    background-color: #bf638c;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer p{
+    color: #cfacbc;
+}
+
+#credits{
+    color: black;
+}
+
