@@ -69,9 +69,10 @@ header{
 #serveis p{
     color: #994d60;
 }
+/* Margin 0 auto goes with width together*/
 #serveis div{
-    margin-left: 250px;
-	margin-right: 250px;
+    width: 800px;
+    margin: 0 auto;
 }
 
 footer{
